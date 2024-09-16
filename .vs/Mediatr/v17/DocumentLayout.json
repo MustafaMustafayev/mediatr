@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\files\\projects\\learnings\\Mediatr\\Mediatr\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF1CE6E-2DD8-4AAE-8C01-273DBE5E608B}|BLL\\BLL.csproj|c:\\users\\asus\\desktop\\files\\projects\\learnings\\mediatr\\mediatr\\bll\\mediatr\\roles\\queries\\getallrolesquery\\getallrolesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDF1CE6E-2DD8-4AAE-8C01-273DBE5E608B}|BLL\\BLL.csproj|solutionrelative:bll\\mediatr\\roles\\queries\\getallrolesquery\\getallrolesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619EB461-FAA6-4447-BB61-E66AF309F8FE}|API\\API.csproj|c:\\users\\asus\\desktop\\files\\projects\\learnings\\mediatr\\mediatr\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619EB461-FAA6-4447-BB61-E66AF309F8FE}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF1CE6E-2DD8-4AAE-8C01-273DBE5E608B}|BLL\\BLL.csproj|c:\\users\\asus\\desktop\\files\\projects\\learnings\\mediatr\\mediatr\\bll\\mediatr\\roles\\commands\\createrolecommand\\createrolecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDF1CE6E-2DD8-4AAE-8C01-273DBE5E608B}|BLL\\BLL.csproj|solutionrelative:bll\\mediatr\\roles\\commands\\createrolecommand\\createrolecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619EB461-FAA6-4447-BB61-E66AF309F8FE}|API\\API.csproj|c:\\users\\asus\\desktop\\files\\projects\\learnings\\mediatr\\mediatr\\api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619EB461-FAA6-4447-BB61-E66AF309F8FE}|API\\API.csproj|solutionrelative:api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF1CE6E-2DD8-4AAE-8C01-273DBE5E608B}|BLL\\BLL.csproj|c:\\users\\asus\\desktop\\files\\projects\\learnings\\mediatr\\mediatr\\bll\\mediatr\\users\\commands\\updateusercommand\\updateusercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDF1CE6E-2DD8-4AAE-8C01-273DBE5E608B}|BLL\\BLL.csproj|solutionrelative:bll\\mediatr\\users\\commands\\updateusercommand\\updateusercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF1CE6E-2DD8-4AAE-8C01-273DBE5E608B}|BLL\\BLL.csproj|c:\\users\\asus\\desktop\\files\\projects\\learnings\\mediatr\\mediatr\\bll\\mediatr\\users\\commands\\createusercommand\\createusercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDF1CE6E-2DD8-4AAE-8C01-273DBE5E608B}|BLL\\BLL.csproj|solutionrelative:bll\\mediatr\\users\\commands\\createusercommand\\createusercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF1CE6E-2DD8-4AAE-8C01-273DBE5E608B}|BLL\\BLL.csproj|c:\\users\\asus\\desktop\\files\\projects\\learnings\\mediatr\\mediatr\\bll\\mediatr\\roles\\commands\\createrolecommand\\createrolecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDF1CE6E-2DD8-4AAE-8C01-273DBE5E608B}|BLL\\BLL.csproj|solutionrelative:bll\\mediatr\\roles\\commands\\createrolecommand\\createrolecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF1CE6E-2DD8-4AAE-8C01-273DBE5E608B}|BLL\\BLL.csproj|c:\\users\\asus\\desktop\\files\\projects\\learnings\\mediatr\\mediatr\\bll\\mediatr\\users\\commands\\createusercommand\\createusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDF1CE6E-2DD8-4AAE-8C01-273DBE5E608B}|BLL\\BLL.csproj|solutionrelative:bll\\mediatr\\users\\commands\\createusercommand\\createusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF1CE6E-2DD8-4AAE-8C01-273DBE5E608B}|BLL\\BLL.csproj|c:\\users\\asus\\desktop\\files\\projects\\learnings\\mediatr\\mediatr\\bll\\mediatr\\users\\commands\\deleteusercommand\\deleteusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDF1CE6E-2DD8-4AAE-8C01-273DBE5E608B}|BLL\\BLL.csproj|solutionrelative:bll\\mediatr\\users\\commands\\deleteusercommand\\deleteusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF1CE6E-2DD8-4AAE-8C01-273DBE5E608B}|BLL\\BLL.csproj|c:\\users\\asus\\desktop\\files\\projects\\learnings\\mediatr\\mediatr\\bll\\mediatr\\users\\commands\\deleteusercommand\\deleteusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDF1CE6E-2DD8-4AAE-8C01-273DBE5E608B}|BLL\\BLL.csproj|solutionrelative:bll\\mediatr\\users\\commands\\deleteusercommand\\deleteusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF1CE6E-2DD8-4AAE-8C01-273DBE5E608B}|BLL\\BLL.csproj|c:\\users\\asus\\desktop\\files\\projects\\learnings\\mediatr\\mediatr\\bll\\mediatr\\users\\commands\\createusercommand\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDF1CE6E-2DD8-4AAE-8C01-273DBE5E608B}|BLL\\BLL.csproj|solutionrelative:bll\\mediatr\\users\\commands\\createusercommand\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 221,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetAllRolesQuery.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\files\\projects\\learnings\\Mediatr\\Mediatr\\BLL\\Mediatr\\Roles\\Queries\\GetAllRolesQuery\\GetAllRolesQuery.cs",
+              "RelativeDocumentMoniker": "BLL\\Mediatr\\Roles\\Queries\\GetAllRolesQuery\\GetAllRolesQuery.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\files\\projects\\learnings\\Mediatr\\Mediatr\\BLL\\Mediatr\\Roles\\Queries\\GetAllRolesQuery\\GetAllRolesQuery.cs",
+              "RelativeToolTip": "BLL\\Mediatr\\Roles\\Queries\\GetAllRolesQuery\\GetAllRolesQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T15:24:22.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\files\\projects\\learnings\\Mediatr\\Mediatr\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\files\\projects\\learnings\\Mediatr\\Mediatr\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T15:23:30.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateRoleCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\files\\projects\\learnings\\Mediatr\\Mediatr\\BLL\\Mediatr\\Roles\\Commands\\CreateRoleCommand\\CreateRoleCommandHandler.cs",
+              "RelativeDocumentMoniker": "BLL\\Mediatr\\Roles\\Commands\\CreateRoleCommand\\CreateRoleCommandHandler.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\files\\projects\\learnings\\Mediatr\\Mediatr\\BLL\\Mediatr\\Roles\\Commands\\CreateRoleCommand\\CreateRoleCommandHandler.cs",
+              "RelativeToolTip": "BLL\\Mediatr\\Roles\\Commands\\CreateRoleCommand\\CreateRoleCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T15:17:07.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\files\\projects\\learnings\\Mediatr\\Mediatr\\API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\files\\projects\\learnings\\Mediatr\\Mediatr\\API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "API\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T15:16:50.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateRoleCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\files\\projects\\learnings\\Mediatr\\Mediatr\\BLL\\Mediatr\\Roles\\Commands\\CreateRoleCommand\\CreateRoleCommandValidator.cs",
+              "RelativeDocumentMoniker": "BLL\\Mediatr\\Roles\\Commands\\CreateRoleCommand\\CreateRoleCommandValidator.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\files\\projects\\learnings\\Mediatr\\Mediatr\\BLL\\Mediatr\\Roles\\Commands\\CreateRoleCommand\\CreateRoleCommandValidator.cs",
+              "RelativeToolTip": "BLL\\Mediatr\\Roles\\Commands\\CreateRoleCommand\\CreateRoleCommandValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T15:16:27.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateUserCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\files\\projects\\learnings\\Mediatr\\Mediatr\\BLL\\Mediatr\\Users\\Commands\\UpdateUserCommand\\UpdateUserCommandValidator.cs",
+              "RelativeDocumentMoniker": "BLL\\Mediatr\\Users\\Commands\\UpdateUserCommand\\UpdateUserCommandValidator.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\files\\projects\\learnings\\Mediatr\\Mediatr\\BLL\\Mediatr\\Users\\Commands\\UpdateUserCommand\\UpdateUserCommandValidator.cs",
+              "RelativeToolTip": "BLL\\Mediatr\\Users\\Commands\\UpdateUserCommand\\UpdateUserCommandValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T15:15:31.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateUserCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\files\\projects\\learnings\\Mediatr\\Mediatr\\BLL\\Mediatr\\Users\\Commands\\CreateUserCommand\\CreateUserCommandValidator.cs",
+              "RelativeDocumentMoniker": "BLL\\Mediatr\\Users\\Commands\\CreateUserCommand\\CreateUserCommandValidator.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\files\\projects\\learnings\\Mediatr\\Mediatr\\BLL\\Mediatr\\Users\\Commands\\CreateUserCommand\\CreateUserCommandValidator.cs",
+              "RelativeToolTip": "BLL\\Mediatr\\Users\\Commands\\CreateUserCommand\\CreateUserCommandValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T15:14:53.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DeleteUserCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\files\\projects\\learnings\\Mediatr\\Mediatr\\BLL\\Mediatr\\Users\\Commands\\DeleteUserCommand\\DeleteUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "BLL\\Mediatr\\Users\\Commands\\DeleteUserCommand\\DeleteUserCommandHandler.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\files\\projects\\learnings\\Mediatr\\Mediatr\\BLL\\Mediatr\\Users\\Commands\\DeleteUserCommand\\DeleteUserCommandHandler.cs",
+              "RelativeToolTip": "BLL\\Mediatr\\Users\\Commands\\DeleteUserCommand\\DeleteUserCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T15:14:51.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DeleteUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\files\\projects\\learnings\\Mediatr\\Mediatr\\BLL\\Mediatr\\Users\\Commands\\DeleteUserCommand\\DeleteUserCommand.cs",
+              "RelativeDocumentMoniker": "BLL\\Mediatr\\Users\\Commands\\DeleteUserCommand\\DeleteUserCommand.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\files\\projects\\learnings\\Mediatr\\Mediatr\\BLL\\Mediatr\\Users\\Commands\\DeleteUserCommand\\DeleteUserCommand.cs",
+              "RelativeToolTip": "BLL\\Mediatr\\Users\\Commands\\DeleteUserCommand\\DeleteUserCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T15:14:48.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateUserCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\files\\projects\\learnings\\Mediatr\\Mediatr\\BLL\\Mediatr\\Users\\Commands\\CreateUserCommand\\CreateUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "BLL\\Mediatr\\Users\\Commands\\CreateUserCommand\\CreateUserCommandHandler.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\files\\projects\\learnings\\Mediatr\\Mediatr\\BLL\\Mediatr\\Users\\Commands\\CreateUserCommand\\CreateUserCommandHandler.cs",
+              "RelativeToolTip": "BLL\\Mediatr\\Users\\Commands\\CreateUserCommand\\CreateUserCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T15:14:35.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\files\\projects\\learnings\\Mediatr\\Mediatr\\BLL\\Mediatr\\Users\\Commands\\CreateUserCommand\\CreateUserCommand.cs",
+              "RelativeDocumentMoniker": "BLL\\Mediatr\\Users\\Commands\\CreateUserCommand\\CreateUserCommand.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\files\\projects\\learnings\\Mediatr\\Mediatr\\BLL\\Mediatr\\Users\\Commands\\CreateUserCommand\\CreateUserCommand.cs",
+              "RelativeToolTip": "BLL\\Mediatr\\Users\\Commands\\CreateUserCommand\\CreateUserCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T15:14:19.794Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
